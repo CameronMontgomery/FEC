@@ -22,7 +22,7 @@ Node.js - version 16.0+
 ### Installing Dependencies
 From within the root directory:
 
-1. Run ```npm install`` to install all required dependencies
+1. Run ```npm install``` to install all required dependencies
 
 ## Development
 Setting up the development environment:
