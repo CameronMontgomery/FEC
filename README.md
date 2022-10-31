@@ -19,11 +19,12 @@ Personally I was responsible for building out the Questions and Answers componen
 ## Table of Contents
 
 1. [Description](#description)
-2. [Usage](#usage)
-3. [Requirements](#requirements)
-4. [Development](#development)
-5. [Production](#production)
-6. [Testing](#testing)
+2. [Technical Overview](#technical-overview)
+3. [Usage](#usage)
+4. [Requirements](#requirements)
+5. [Development](#development)
+6. [Production](#production)
+7. [Testing](#testing)
 
 ## Description
 
@@ -31,16 +32,21 @@ After completing the junior phase at Hack Reactor groups are assigned to complet
 
 [Provided Wireframe](https://xd.adobe.com/view/e600dc0f-454c-44e3-5075-7872d04189ff-9031/)
 
-## Usage
+## Technical Overview
 
 First Hack Reactor collaborative project. Project is the culmination of all the front-end skills students have been learning. Students learn to use proper Git workflows, reviewing commits and pull requests. Technical skills involve React (functional components and hooks), Node.js/Express.js is used to forward requests to the API adding authentication to ensure keys are not included in client bundles. Jest and RTL was used for testing and Webpack for bundling.
+
+## Usage
+In order to run the project locally please read [Requirements](#requirements) section for instructions setting up a local .env and for installing dependencies. Find further instructions for setting up the project for development or production in the [Development](#development) and [Production](#production) sections.
 
 ## Requirements
 
 Node.js - version 16.0+
 
-### Installing Dependencies
+### Configuring .env
+To run locally the project needs a github PAT key added to a .env. In the projects root you will find a file titled config.env. Add your GitHub PAT key to this file and rename it .env leaving it in the projects root.
 
+### Installing Dependencies
 From within the root directory:
 > 1. Run ```npm install``` to install all required dependencies
 
