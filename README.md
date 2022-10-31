@@ -1,3 +1,11 @@
+
+### I was personally responsible for the Q&A section of the project.
+View my contributions at <br> [/client/src/components/questionsComponent](https://github.com/Tribalash/FEC/tree/master/client/src/components/questionsComponent) <br>
+
+Tests for component are accessible at <br>
+[/client/src/\_\_tests\_\_/questions.test.js](https://github.com/Tribalash/FEC/blob/master/client/src/__tests__/questions.test.js)<br>
+
+
 # Front End Capstone
 
 Group Hack Reactor FEC project. When given only a wireframe and business requirements create a mock e-commerce product page.
