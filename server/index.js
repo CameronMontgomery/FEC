@@ -19,6 +19,7 @@ app.get('/api/*', async (req, res) => {
       "Authorization": process.env.AUTH_KEY
     }
   }).then((apiRes) => res.send(apiRes.data))
+  .catch(err => console.log(err))
 })
 
 app.post('/api/*', async (req, res) => {
