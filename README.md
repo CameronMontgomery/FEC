@@ -1,11 +1,3 @@
-
-### I was personally responsible for the Q&A section of the project.
-View my contributions at <br> [/client/src/components/questionsComponent](https://github.com/Tribalash/FEC/tree/master/client/src/components/questionsComponent) <br>
-
-Tests for component are accessible at <br>
-[/client/src/\_\_tests\_\_/questions.test.js](https://github.com/Tribalash/FEC/blob/master/client/src/__tests__/questions.test.js)<br>
-
-
 # Front End Capstone
 
 Group Hack Reactor FEC project. When given only a wireframe and business requirements create a mock e-commerce product page.
@@ -31,6 +23,28 @@ Personally I was responsible for building out the Questions and Answers componen
 After completing the junior phase at Hack Reactor groups are assigned to complete a collaborative group project building out a product page of an e-commerce site. Students are given just a wireframe and business requirements to use and are tasked to plan and build the site. We used React, Express, Webpack, CSS, and Node.js to build the site with Jest and React Testing Library for testing. Along with meeting the business requirements we also were tasked with building out 70% test coverage of our component. Since our team consisted of 3, not 4, we were instructed to not include "Related Products" component.
 
 [Provided Wireframe](https://xd.adobe.com/view/e600dc0f-454c-44e3-5075-7872d04189ff-9031/)
+
+<div align="center">
+
+![GIF demo - overview of site](https://github.com/CameronMontgomery/FEC/blob/master/demos/overview-640.gif)
+
+</div>
+<br>
+
+### I was personally responsible for the Q&A section of the project.
+
+<br>
+
+<div align="center">
+
+![GIF demo of Q&A component](https://github.com/CameronMontgomery/FEC/blob/master/demos/Q%26A-full.gif)
+
+</div>
+
+View my code contributions at <br> [/client/src/components/questionsComponent](https://github.com/Tribalash/FEC/tree/master/client/src/components/questionsComponent) <br>
+
+Tests for component are accessible at <br>
+[/client/src/\_\_tests\_\_/questions.test.js](https://github.com/Tribalash/FEC/blob/master/client/src/__tests__/questions.test.js)<br>
 
 ## Technical Overview
 
